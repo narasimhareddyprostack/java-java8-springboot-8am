@@ -1,11 +1,11 @@
 class Day{
     public static void main(String[] args){
-        String day = "Monday";
+        String day = "Sunday";
         switch(day){
             case "Monday":
                 System.out.println("Monday Fever");
-               
-            case "Tueday":
+                break
+            case "Tuesday":
                 System.out.println("Tuesday Fever");    
                 break;
             case "Wednesday":
