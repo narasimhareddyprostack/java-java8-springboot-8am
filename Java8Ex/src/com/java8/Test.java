@@ -18,6 +18,7 @@ public class Test {
 		Stream<Integer> st = list.stream();
 		//st.filter(value->value%2==0).forEach(x->System.out.println(x));
 		st.filter(value->value%2==0).forEach(System.out :: println);
+		st.
 
 	}
 
